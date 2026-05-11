@@ -85,6 +85,6 @@ Visita mi CV interactivo:
 👉[CV](https://silvitycode.github.io/CV---interactivo/).
 
 ¡Échale un vistazo a mi proyecto!: 
-👉[SoftWhiskers](https://silvitycode.github.io/Pagina-de-roedores---SoftWhiskers/).
+👉[Biblioteca-ia](https://github.com/ValentinBL92/biblioteca-ia).
 > [!NOTE]
 > Se trata de una demo visual del frontend de la página.
