@@ -8,13 +8,22 @@ Actualmente estoy formándome como desarrolladora web full stack, con especial i
 
 ## 🛠️ Stack Tecnológico
 
-| Área        | Tecnologías |
-| :---------- | :---------- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
-| **Backend**  | Node.js, PHP |
-| **Base de Datos** | SQLite |
-| **CMS / Web Builders** | WordPress, Kubio |
-| **Herramientas** | Git, GitHub, VS Code, NPM, DB Browser |
+### 💻 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & DB
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### 🤖 IA e Integraciones
+- **IA Generativa:** Desarrollo de interfaces tipo ChatGPT con integración de LLMs.
+- **Productividad:** Creación de Add-ins para Microsoft Office (Word, Excel, Outlook).
 
 > [!NOTE]
 > 🚀 Estoy trabajando activamente en proyectos personales para reforzar mis habilidades en arquitectura modular, validación HTTP, operaciones CRUD y diseño responsivo, así como en la integración de modelos LLM e IA en aplicaciones web.
