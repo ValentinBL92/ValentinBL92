@@ -80,5 +80,4 @@ Visita mi CV interactivo:
 
 ¡Échale un vistazo a mi proyecto!: 
 👉[Biblioteca-ia](https://github.com/ValentinBL92/biblioteca-ia).
-> [!NOTE]
-> Se trata de una demo visual del frontend de la página.
+
