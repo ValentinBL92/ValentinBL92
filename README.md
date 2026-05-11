@@ -8,22 +8,27 @@ Actualmente estoy formándome como desarrolladora web full stack, con especial i
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Frontend
+### 💻 Frontend (Mi especialidad actual)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & DB
+### ⚙️ Backend & Seguridad
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### 🤖 IA e Integraciones
-- **IA Generativa:** Desarrollo de interfaces tipo ChatGPT con integración de LLMs.
-- **Productividad:** Creación de Add-ins para Microsoft Office (Word, Excel, Outlook).
+### 🤖 Experiencia con IA
+* **UI/UX para IA Generativa:** Desarrollo del Frontend para aplicaciones de chat inteligente (estilo ChatGPT) utilizando React y TypeScript.
+* **Integración de Modelos:** Experiencia conectando interfaces modernas con servicios de lenguaje natural.
+
+### 🔧 Herramientas & Entorno
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 > [!NOTE]
 > 🚀 Estoy trabajando activamente en proyectos personales para reforzar mis habilidades en arquitectura modular, validación HTTP, operaciones CRUD y diseño responsivo, así como en la integración de modelos LLM e IA en aplicaciones web.
