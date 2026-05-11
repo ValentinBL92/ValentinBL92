@@ -30,10 +30,13 @@ Mi stack principal se basa en el ecosistema **TypeScript**, utilizando **Next.js
 ### 🔧 Herramientas & Entorno
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-> [!NOTE]
-> 🚀 Estoy trabajando activamente en proyectos personales para reforzar mis habilidades en arquitectura modular, validación HTTP, operaciones CRUD y diseño responsivo, así como en la integración de modelos LLM e IA en aplicaciones web.
+> [!IMPORTANT]
+> 🚀 **Actualmente desarrollando:** Una plataforma de **Biblioteca Digital Proyectizada** con stack integral de TypeScript.
+> 
+> * **Backend (NestJS):** Implementando una arquitectura modular con validación estricta de DTOs, seguridad mediante JWT/Passport y persistencia con Prisma + PostgreSQL.
+> * **Frontend (Next.js 14):** Construyendo una interfaz reactiva con App Router, Tailwind CSS y gestión de estados para un sistema social de reviews y puntuaciones.
+> * **Core IA:** Integrando un motor de recomendación personalizado basado en LLMs para sugerir lecturas basadas en el comportamiento y gustos del usuario.
 
 ---
 
