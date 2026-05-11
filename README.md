@@ -32,11 +32,14 @@ Mi stack principal se basa en el ecosistema **TypeScript**, utilizando **Next.js
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 > [!IMPORTANT]
-> 🚀 **Actualmente desarrollando:** Una plataforma de **Biblioteca Digital Proyectizada** con stack integral de TypeScript.
-> 
-> * **Backend (NestJS):** Implementando una arquitectura modular con validación estricta de DTOs, seguridad mediante JWT/Passport y persistencia con Prisma + PostgreSQL.
-> * **Frontend (Next.js 14):** Construyendo una interfaz reactiva con App Router, Tailwind CSS y gestión de estados para un sistema social de reviews y puntuaciones.
-> * **Core IA:** Integrando un motor de recomendación personalizado basado en LLMs para sugerir lecturas basadas en el comportamiento y gustos del usuario.
+> ### 🚀 Proyecto Destacado: Biblioteca Digital Full Stack
+> **Plataforma integral de gestión y red social literaria desarrollada con el ecosistema TypeScript.**
+>
+> * **Backend (NestJS):** Arquitectura modular sólida con **Prisma & PostgreSQL**. Implementación de seguridad avanzada (JWT/Passport), validación de DTOs y lógica compleja de negocio (sistemas de turnos, waitlist y flujos de alquiler).
+> * **Frontend (Next.js 14):** Interfaz *mobile-first* con **App Router y Tailwind CSS**. Navegación protegida y sincronización de estado en tiempo real con la API.
+> * **Próximo hito (IA):** Implementación de un motor de recomendación personalizado mediante **LLMs** basado en hábitos de lectura y preferencias del usuario.
+>
+> _Estado: Base funcional end-to-end completada; actualmente refinando UX y consistencia de datos._
 
 ---
 
