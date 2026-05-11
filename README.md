@@ -2,7 +2,9 @@
 
 ### Hola, soy Valentín 👋
 
-Actualmente estoy formándome como desarrolladora web full stack, con especial interés en crear interfaces limpias, funcionales y experiencias de usuario intuitivas. Mi aprendizaje se centra en tecnologías fundamentales del desarrollo web moderno, respaldado por el certificado de profesionalidad **IFCD0210: Desarrollo de Aplicaciones con Tecnologías Web**.
+Soy un desarrollador web full stack enfocado en la creación de aplicaciones modernas, escalables y con un fuerte componente de innovación. Actualmente, centro mis esfuerzos en integrar **Inteligencia Artificial** en entornos prácticos para optimizar la experiencia de usuario y la funcionalidad de las aplicaciones.
+
+Mi stack principal se basa en el ecosistema **TypeScript**, utilizando **Next.js** para el frontend y **NestJS** para arquitecturas de backend robustas y seguras. Mi formación técnica está respaldada por el certificado de profesionalidad **IFCD0210: Desarrollo de Aplicaciones con Tecnologías Web**.
 
 ---
 
