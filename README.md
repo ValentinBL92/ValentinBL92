@@ -70,7 +70,7 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 ## 📈 Estadísticas de GitHub
 ### Lenguajes
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValentinBL92&theme=radical&hide_border=true&background=0D1117&title=F85D7F&stroke=F85D7F)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ValentinBL92&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 📫 ¿Quieres saber más?
