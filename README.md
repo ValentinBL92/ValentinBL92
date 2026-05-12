@@ -70,7 +70,7 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 ## 📈 Estadísticas de GitHub
 ### Lenguajes
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinBL92&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValentinBL92&theme=radical&hide_border=true&background=0D1117&title=F85D7F&stroke=F85D7F)
 ---
 
 ## 📫 ¿Quieres saber más?
