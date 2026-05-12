@@ -70,7 +70,7 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 ## 📈 Estadísticas de GitHub
 ### Lenguajes
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ValentinBL92&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=ValentinBL92&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 ---
 
 ## 📫 ¿Quieres saber más?
